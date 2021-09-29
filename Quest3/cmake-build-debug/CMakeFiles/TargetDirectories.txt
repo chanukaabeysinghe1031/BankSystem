@@ -1,0 +1,3 @@
+/Users/chanukaabeysinghe/CLionProjects/Quest3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chanukaabeysinghe/CLionProjects/Quest3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chanukaabeysinghe/CLionProjects/Quest3/cmake-build-debug/CMakeFiles/Quest3.dir
